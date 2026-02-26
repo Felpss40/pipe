@@ -1,6 +1,6 @@
 # 🛡️ VGC IPC Hijacking & Heartbeat Emulator
 
-Este projeto é uma Prova de Conceito desenvolvida em C++ que explora vulnerabilidades na comunicação entre processos (IPC) do serviço de segurança **VGC (Vanguard Client)**. 
+Este projeto é desenvolvido em C++ e explora vulnerabilidades na comunicação entre processos (IPC) do serviço de segurança **VGC (Vanguard Client)**. 
 
 O código demonstra como realizar o *hijacking* (sequestro) de **Named Pipes** utilizados para a validação de integridade (*Heartbeat*) do jogo. O resultado prático desta exploração é a capacidade de **desativar completamente o anti-cheat VGC em tempo de execução e continuar jogando normalmente, sem que o jogo detecte a ausência do Vanguard.**
 
